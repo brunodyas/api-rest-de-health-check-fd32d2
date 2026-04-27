@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\a
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\bin\Debug\net8.0\api_rest_de_health_check_fd32d2.exe
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\bin\Debug\net8.0\api_rest_de_health_check_fd32d2.deps.json
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\bin\Debug\net8.0\api_rest_de_health_check_fd32d2.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\bin\Debug\net8.0\api_rest_de_health_check_fd32d2.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\bin\Debug\net8.0\api_rest_de_health_check_fd32d2.pdb
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\refint\api_rest_de_health_check_fd32d2.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.pdb
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\ref\api_rest_de_health_check_fd32d2.dll
