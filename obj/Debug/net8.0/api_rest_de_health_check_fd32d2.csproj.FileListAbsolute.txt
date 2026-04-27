@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\r
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.pdb
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\ref\api_rest_de_health_check_fd32d2.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-fd32d2\obj\Debug\net8.0\api_rest_de_health_check_fd32d2.sourcelink.json
